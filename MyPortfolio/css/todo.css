@@ -1,0 +1,35 @@
+/* 基本のスタイル */
+h1 {
+  font-size: 32px;
+  margin: 0;
+  padding: 4px;
+  color: darkslateblue;
+  text-align: center;
+}
+
+h2 {
+  font-size: 14px;
+  margin: 0;
+  padding: 4px;
+  color: darkcyan;
+  text-align: center;
+}
+
+hr {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+/* ログインページ */
+th {
+  width: 150px;
+  text-align: center;
+  padding: 8px;
+  color: #ffffff;
+  background-color: #aaaaff;
+}
+
+td {
+  text-align: center;
+  padding: 8px;
+}
